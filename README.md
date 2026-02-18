@@ -1,33 +1,50 @@
-Privacy Policy for Spil og Lær
-Sidst opdateret: 18. februar 2026
+# Privacy Policy for Spil og Lær
+
+**Sidst opdateret:** 18. februar 2026
+
 ---
-Kort oversigt
-Spil og Lær er en pædagogisk børneapp målrettet 3–6 år. Appen indsamler kun det, der er nødvendigt for at fungere: anonymiserede analytics, crash‑rapporter og spilfremskridt gemt lokalt på enheden. Vi indsamler ikke personligt identificerbare oplysninger om børn uden forældres samtykke.
+
+### Kort oversigt
+**Spil og Lær** er en pædagogisk børneapp målrettet **3–6 år**. Appen indsamler kun det, der er nødvendigt for at fungere: anonymiserede analytics, crash‑rapporter og spilfremskridt gemt lokalt på enheden. Vi indsamler **ikke** personligt identificerbare oplysninger om børn uden forældres samtykke.
+
 ---
-Hvilke data vi indsamler
-• Anonym analytics: brugsmønstre og statistik uden personligt id.
-• Crash‑rapporter: tekniske fejlrapporter for at forbedre stabilitet.
-• Lokale spildata: fremskridt og indstillinger gemt på enheden.
+
+### Hvilke data vi indsamler
+- **Anonym analytics:** brugsmønstre og statistik uden personligt id.  
+- **Crash‑rapporter:** tekniske fejlrapporter for at forbedre stabilitet.  
+- **Lokale spildata:** fremskridt og indstillinger gemt på enheden.
+
 ---
-Hvorfor vi indsamler data
-• Forbedre appens stabilitet og ydeevne.
-• Tilpasse sværhedsgrad og brugeroplevelse.
-• Gemme spilfremskridt, så barnet kan fortsætte senere.
+
+### Hvorfor vi indsamler data
+- Forbedre appens stabilitet og ydeevne.  
+- Tilpasse sværhedsgrad og brugeroplevelse.  
+- Gemme spilfremskridt, så barnet kan fortsætte senere.
+
 ---
-Deling med tredjeparter
-• Vi kan dele anonymiserede analytics og crash‑data med tredjepartsleverandører til analyse og fejlfinding.
-• Vi sælger ikke brugerdata.
-• Hvis vi bruger specifikke tjenester (fx analytics), vil disse blive angivet separat.
+
+### Deling med tredjeparter
+- Vi kan dele **anonymiserede** analytics og crash‑data med tredjepartsleverandører til analyse og fejlfinding.  
+- Vi **sælger ikke** brugerdata.  
+- Hvis vi bruger specifikke tjenester (fx analytics), vil disse blive angivet separat.
+
 ---
-Børn og forældresamtykke
-• Appen er designet til børn 3–6 år.
-• Vi indsamler ikke personligt identificerbare oplysninger om børn uden forældres samtykke.
-• Forældre kan anmode om indsigt, rettelse eller sletning af data ved at kontakte os.
+
+### Børn og forældresamtykke
+- Appen er designet til børn **3–6 år**.  
+- Vi indsamler ikke personligt identificerbare oplysninger om børn uden forældres samtykke.  
+- Forældre kan anmode om indsigt, rettelse eller sletning af data ved at kontakte os.
+
 ---
-Sikkerhed og opbevaring
-• Vi anvender almindelige tekniske og organisatoriske foranstaltninger for at beskytte data.
-• Data opbevares kun så længe det er nødvendigt for formålet eller i henhold til gældende lovgivning.
+
+### Sikkerhed og opbevaring
+- Vi anvender almindelige tekniske og organisatoriske foranstaltninger for at beskytte data.  
+- Data opbevares kun så længe det er nødvendigt for formålet eller i henhold til gældende lovgivning.
+
 ---
-Kontakt
-Dataansvarlig: Thomas Pedersen
-E‑mail: pedersen.thomas.88@gmail.com
+
+### Kontakt
+**Dataansvarlig:** Thomas Pedersen  
+**E‑mail:** pedersen.thomas.88@gmail.com
+
+---
